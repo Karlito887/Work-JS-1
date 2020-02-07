@@ -1,0 +1,112 @@
+.container-main {
+    margin: 10px auto;
+    width: 900px;
+}
+.box {
+    padding-left: 32px;
+    padding-top: 28px;
+    width: 100%;
+    min-height: 280px;
+    border-radius: 5px;
+    border: 1px solid rgb(241, 240, 240);
+    background: rgb(231, 231, 231);
+}
+.btn-grp {
+    margin: 5px auto;
+    width: 116px;
+}
+#html {
+    width: 820px;
+    height: 180px;
+}
+.add-save {
+    margin: 15px 0px;
+}
+.custom-control {
+    margin-right: 20px;
+    margin-top: 5px;
+}
+
+.general {
+    width: 180px;
+    height: 180px;
+    display: none;
+    flex-wrap: wrap;
+    margin: 40px auto;
+
+}
+.color {
+    width: 60px;
+    height: 60px;
+}
+
+.lightseagreen {
+    background-color: lightseagreen;
+    width: 60px;
+    height: 60px;
+}
+.greenyellow {
+    background: greenyellow;
+    width: 60px;
+    height: 60px;
+}
+.green{
+    width: 60px;
+    height: 60px;
+    background: green;
+}
+.gray {
+    width: 60px;
+    height: 60px;
+    background: gray;
+}
+.violet {
+    width: 60px;
+    height: 60px;
+    background: violet;
+}
+.red {
+    width: 60px;
+    height: 60px;
+    background: red
+}
+.goldenrod {
+    width: 60px;
+    height: 60px;
+    background: goldenrod;
+}
+.brown {
+    width: 60px;
+    height: 60px;
+    background: brown;
+}
+.yellow {
+    width: 60px;
+    height: 60px;
+    background: yellow;
+}
+
+
+.table-list {
+    margin: 10px auto;
+    width: 900px;
+    padding-left: 32px;
+    padding-top: 28px;
+    min-height: 280px;
+    border-radius: 5px;
+    border: 1px solid rgb(241, 240, 240);
+    background: rgb(231, 231, 231);
+}
+
+.table-inpt {
+    width: 90%;
+}
+
+.table-border-inpt {
+    width: 20%;
+}
+
+
+.table-border-style>children {
+    width: 33%;
+}
